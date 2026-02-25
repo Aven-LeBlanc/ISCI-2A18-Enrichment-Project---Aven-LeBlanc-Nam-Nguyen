@@ -1,8 +1,7 @@
 ## ISCI-2A18-Enrichment-Project---Aven-LeBlanc-Nam-Nguyen
-Computational methods to estimate particle masses from public collider data from ATLAS experiment and CMS experiment. We reconstruct invariant mass spectra, fit resonance peaks with parametric models, and quantify uncertainty using reproducible statistical workflows.
 
 ## Brief Project Overview
-This project uses computational and statistical data analysis to estimate particle masses from publicly available high-energy physics datasets (e.g., ATLAS or CMS collider data). We reconstruct invariant mass distributions from measured particle momenta across thousands of collision events and identify resonance peaks corresponding to known particles. By fitting parametric models (such as Gaussian or Breit–Wigner distributions) to these peaks, we estimate particle masses and associated uncertainties. The project emphasizes reproducible data processing, numerical computation, model fitting, and uncertainty quantification using least-squares, likelihood-based inference, and Monte Carlo or bootstrap methods. Overall, the project frames particle mass reconstruction as a signal-extraction problem from noisy data, aligning with the ISCI 2A18 mathematics component through optimization, probability, vector geometry, and statistical modelling.
+We hope to use computational and statistical data analysis to estimate particle masses from publicly available high-energy physics datasets (e.g., ATLAS or CMS collider data). We would like to be able to reconstruct invariant mass distributions from measured particle momenta across thousands of collision events and identify resonance peaks corresponding to known particles. By fitting parametric models to these peaks, we want to estimate particle masses and associated uncertainties. 
 
 ## Possible Meeting Slots
       Monday: 12:30-1:30 
