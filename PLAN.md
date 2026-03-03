@@ -29,3 +29,4 @@ Publicly available data from the CMS experiment at the LHC, offering both real c
 ## Week TWO tasks 
 1. Download and install positron 
 2. Work through ATLAS 'quick start', linked here: https://opendata.atlas.cern/docs/userpath/quickstart
+3. Work thorugh ATLAS 'Researchers Toolkit', linked here: https://opendata.atlas.cern/docs/userpath/researchers
